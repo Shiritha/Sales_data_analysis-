@@ -17,7 +17,7 @@ Kaggle Superstore — 9,994 rows, 21 columns
 
 ### Dashboard Screenshot
 
-<img width="868" height="491" alt="Screenshot 2026-04-27 142412" src="https://github.com/user-attachments/assets/cd09ac1b-060e-4883-8240-de62c2c26550" />
+<img width="869" height="490" alt="Screenshot 2026-04-27 155953" src="https://github.com/user-attachments/assets/522c7627-6f31-40c1-b589-d35955edc966" />
 
 ### Files
 - Superstore_Sales_Analysis.xlsx
