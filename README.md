@@ -16,7 +16,8 @@ Kaggle Superstore — 9,994 rows, 21 columns
 3. Tables sub-category = highest loss-maker
 
 ### Dashboard Screenshot
-[Add your Power BI screenshot here]
+
+<img width="868" height="491" alt="Screenshot 2026-04-27 142412" src="https://github.com/user-attachments/assets/cd09ac1b-060e-4883-8240-de62c2c26550" />
 
 ### Files
 - Superstore_Sales_Analysis.xlsx
